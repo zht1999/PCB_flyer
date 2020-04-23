@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [fiveflyers÷’∏Â.PrjPcb]
+   Generated File[PCB6.RUL]
+   Generated File[PCB6.EXTREP]
+   Generated File[PCB6.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:12:07 On 2018/10/15
